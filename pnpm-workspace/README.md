@@ -7,9 +7,9 @@ This is a pnpm workspace that contains two packages:
 
 ## Technologies
 
-- TypeScript
-- Prettier
 - ESLint
+- Prettier
+- TypeScript
 
 ## Running commands at the workspace root
 
