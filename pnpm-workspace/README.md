@@ -5,6 +5,12 @@ This is a pnpm workspace that contains two packages:
 - `packages/ui`: a React component library
 - `apps/site`: a Next.js app that uses the `ui` package
 
+## Technologies
+
+- TypeScript
+- Prettier
+- ESLint
+
 ## Running commands at the workspace root
 
 To run a command at the workspace root, you can use the `pnpm` command with the `--filter` option:
