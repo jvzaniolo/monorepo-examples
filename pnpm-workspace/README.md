@@ -2,8 +2,8 @@
 
 This is a pnpm workspace that contains two packages:
 
-- `packages/ui`: a React component library
 - `apps/site`: a Next.js app that uses the `ui` package
+- `packages/ui`: a React component library
 
 ## Technologies
 
